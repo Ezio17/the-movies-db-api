@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-movies-db-api/build/static/css/main.eb940faf.chunk.css",
+    "main.js": "/the-movies-db-api/build/static/js/main.04ab368b.chunk.js",
+    "main.js.map": "/the-movies-db-api/build/static/js/main.04ab368b.chunk.js.map",
+    "runtime~main.js": "/the-movies-db-api/build/static/js/runtime~main.8f2db392.js",
+    "runtime~main.js.map": "/the-movies-db-api/build/static/js/runtime~main.8f2db392.js.map",
+    "static/js/2.0c44529c.chunk.js": "/the-movies-db-api/build/static/js/2.0c44529c.chunk.js",
+    "static/js/2.0c44529c.chunk.js.map": "/the-movies-db-api/build/static/js/2.0c44529c.chunk.js.map",
+    "index.html": "/the-movies-db-api/build/index.html",
+    "precache-manifest.7a970c38de4fab1222debd0af135699d.js": "/the-movies-db-api/build/precache-manifest.7a970c38de4fab1222debd0af135699d.js",
+    "service-worker.js": "/the-movies-db-api/build/service-worker.js",
+    "static/css/main.eb940faf.chunk.css.map": "/the-movies-db-api/build/static/css/main.eb940faf.chunk.css.map"
+  }
+}
