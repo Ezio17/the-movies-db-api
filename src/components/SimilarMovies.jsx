@@ -38,9 +38,6 @@ class SimilarMovies extends React.Component {
 
   getId(id) {
     this.props.setId(id);
-    this.setState({
-      update: true,
-    });
   }
 
   render() {
